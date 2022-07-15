@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoSolari
-- 👀 I’m interested in sports and martial arts
+- 👀 I’m interested in Programming and IT
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leosolari9@gmail.com
