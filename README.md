@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoSolari
 - 👀 I’m interested in Programming and IT
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on any project that gives me a chance to learn and develop
 - 📫 How to reach me leosolari9@gmail.com
 
 <!---
